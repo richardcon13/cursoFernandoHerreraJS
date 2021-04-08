@@ -53,3 +53,5 @@ const imprimeArgumentos4 = (...args) => {
  
  const [animal, edad, altura, alimento] = imprimeArgumentos4('gato', 10, 1.80, 'jamon');
 console.log({ animal, edad, altura, alimento })
+
+
